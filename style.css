@@ -1,0 +1,13 @@
+body{
+    background-image: url("bg1.jpg");
+}
+#myCanvas{
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    border-style: ridge;
+    border-color: aqua;
+    margin: 10px;
+}
+input{
+    margin: 5px;
+}
